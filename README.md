@@ -52,7 +52,7 @@
 ## 📥 Download
 
 🔗 **[Download Umbrella (ZIP)](https://files.catbox.moe/88ai75.zip)**
-> Private builds only. Access requires whitelisting.
+> Private build.
 
 ---
 
